@@ -107,7 +107,7 @@ We support JPEG, PNG, and WebP formats with a maximum file size of 5MB. Output i
 Most images are generated in approximately 0.8 seconds using our optimized neural engine. Complex edits may take slightly longer but typically complete within 2-3 seconds.
 
 ### Where can I try Nano-Banana?
-You can try Nano-Banana right on our website at [nanobanana.ai](https://nanobanana.ai). Click 'Start Editing' or 'Try The AI Editor' to access our online editor immediately.
+You can try Nano-Banana right on our website at [nano-banana.ai](https://nano-banana.ai). Click 'Start Editing' or 'Try The AI Editor' to access our online editor immediately.
 
 ### Is there a limit to image generations?
 Usage limits depend on your subscription plan. We offer flexible pricing tiers from individual creators to enterprise-level requirements with bulk processing capabilities.
